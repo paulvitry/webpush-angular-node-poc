@@ -13,12 +13,14 @@ With the following command the angular-cli will be installed globally in your ma
 
 # Start client
 
-To run the client you just have to run:
+To start the client you just have to run:
 
     ng serve
+    
+Warning: Webpush works in production environment only 
   
  # Start server
- To run the server you just have to run:
+ To start the server you just have to run:
  
     yarn install
     yarn start
