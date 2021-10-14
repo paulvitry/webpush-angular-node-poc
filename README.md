@@ -7,8 +7,10 @@ webpush poc with angular client side and node server side
 
 
 # Start client
-  ng serve
+To run the client you just have to run:
+    ng serve
   
  # Start server
-  yarn install
-  yarn start
+ To run the server you just have to run:
+    yarn install
+    yarn start
