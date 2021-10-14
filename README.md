@@ -5,14 +5,13 @@ webpush poc with angular client side and node server side
   You can try this project by clicking on this link:
   https://admiring-kepler-6d481c.netlify.app/
 
-
-# Start client
 # Installing the Angular CLI
 
 With the following command the angular-cli will be installed globally in your machine:
 
     npm install -g @angular/cli 
 
+# Start client
 
 To run the client you just have to run:
 
