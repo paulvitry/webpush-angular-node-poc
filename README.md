@@ -7,10 +7,19 @@ webpush poc with angular client side and node server side
 
 
 # Start client
+# Installing the Angular CLI
+
+With the following command the angular-cli will be installed globally in your machine:
+
+    npm install -g @angular/cli 
+
+
 To run the client you just have to run:
+
     ng serve
   
  # Start server
  To run the server you just have to run:
+ 
     yarn install
     yarn start
